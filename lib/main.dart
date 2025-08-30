@@ -12,7 +12,6 @@ class App extends StatelessWidget {
     );
 
     return MaterialApp(
-      home: Text('Hello World')
       home: homepage,
       theme: ThemeData(
         appBarTheme: AppBarTheme(
