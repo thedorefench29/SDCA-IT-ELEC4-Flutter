@@ -1,4 +1,4 @@
-# sdca_it_elect4_flutter
+# sdca_it_elec4_flutter
 
 A new Flutter project.
 
